@@ -1,7 +1,10 @@
 ## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
 # Packt-Data_Wrangling
-Code repo for Packt course I developed, "Beginning Data Wrangling with Python"
+Code repo for Packt course I developed, "Beginning Data Wrangling with Python".
+
+### [Here you can buy this book](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook-dp-B07JF26NGJ/dp/B07JF26NGJ/)
+![image](https://images-na.ssl-images-amazon.com/images/I/51-AuclWzTL._SX403_BO1,204,203,200_.jpg)
 
 ## What is this course about?
 “Data is the new Oil” and it is ruling the modern way of life through incredibly smart tools and transformative technologies. But oil does not come out in its final form from the rig. It has to be refined through a complex processing network. Similarly, data needs to be curated, massaged and refined to be used in intelligent algorithms and consumer products. This is called “wrangling” and (according to Forbes) all the good data scientists spend almost 60-80% of their time on this, each day, every project. It involves scraping the raw data from multiple sources (including web and database tables), imputing, formatting, transforming – basically making it ready, to be used flawlessly in the modeling process.
