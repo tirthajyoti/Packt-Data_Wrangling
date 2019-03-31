@@ -44,7 +44,6 @@ You’ll also need the following software installed in advance:
   * NumPy
   * Pandas
   * SciPy
-  * scikit-learn
   * Matplotlib
   * BeautifulSoup4
 
